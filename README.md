@@ -1,0 +1,2 @@
+# MediaStreaming-App
+Uploading and streaming media content has been a Growing part of the Internet Culture and is one of Important Areas for Web Development. Created a project having Video Streaming Application that allows Registered Users to upload videos that can be streamed by anyone browsing the application.. Implemented MERN Mediastream, Handled Uploaded Videos by MongoDB GridFS. Supports feature of Listing, Displaying, Updating, Deleting.
